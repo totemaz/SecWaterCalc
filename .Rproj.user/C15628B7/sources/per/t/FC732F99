@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558665417814.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3864402557",
+    "id" : "FC732F99",
+    "lastKnownWriteTime" : 1558666210,
+    "last_content_update" : 1558666210805,
+    "path" : "D:/Git/R-Project/SecWaterCalc/Calc.R",
+    "project_path" : "Calc.R",
+    "properties" : {
+        "cursorPosition" : "20,2",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
